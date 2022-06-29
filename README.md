@@ -2,7 +2,7 @@
   <img align="center" alt="Banner" width="100%" src="docs/images/banner.jpg" />
 </a>
 
-<h1 align="center"><a>Turning Smartphones into Robots</a></h1>
+<h1 align="center"><a>Turning Smartphones into Robotss</a></h1>
 
 <p align="center">
    <img alt="GitHub build" src="https://img.shields.io/github/workflow/status/Intel-ISL/OpenBot/Java%20CI%20with%20Gradle"></a>
